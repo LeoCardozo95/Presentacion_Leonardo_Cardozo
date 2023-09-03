@@ -23,7 +23,8 @@
 
 ## *Contacto:*
 
-***Teléfono:*** *[(+5411) 5664-4529](tel:+541156644529)* *[(whatsapp)](blank:https://api.whatsapp.com/send?phone=5491156644529).*
+***Teléfono:*** *[(+5411) 5664-4529](tel:+541156644529)* 
+*[(whatsapp)](blank:https://api.whatsapp.com/send?phone=5491156644529).*
 
 ***Email:*** *[leo.cardozo95@live.com](mailto:leo.cardozo95@live.com)*
 
